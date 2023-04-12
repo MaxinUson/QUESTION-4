@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Question 4</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+<body>
+	<nav class="navbar navbar-expand bg-primary">
+		<dl>How long did it take to develop Javascript?</dl>
+	</nav>
+	<table class="container-fluid table striped table-bordered table-hover">
+		<tr>
+			<td class="table-primary"><b><a href="file:///Users/maxinuson/Downloads/School%20Downloads/Websites/QUESTION%205.html">10 days</a></b></td>
+			<td class="table-primary"><b><a href="file:///Users/maxinuson/Downloads/School%20Downloads/Websites/WRONG%20ANSWER.html">10 months</a></b></td>
+			<td class="table-primary"><b><a href="file:///Users/maxinuson/Downloads/School%20Downloads/Websites/WRONG%20ANSWER.html">5 weeks</a></b></td>
+			<td class="table-primary"><b><a href="file:///Users/maxinuson/Downloads/School%20Downloads/Websites/WRONG%20ANSWER.html">5 years</a></b></td>
